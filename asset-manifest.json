@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Billin_Page/static/css/main.2dcdd1a3.css",
+    "main.js": "/Billin_Page/static/js/main.6d77a6c8.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Billin_Page/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Billin_Page/index.html",
+    "main.2dcdd1a3.css.map": "/Billin_Page/static/css/main.2dcdd1a3.css.map",
+    "main.6d77a6c8.js.map": "/Billin_Page/static/js/main.6d77a6c8.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Billin_Page/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dcdd1a3.css",
+    "static/js/main.6d77a6c8.js"
+  ]
+}
